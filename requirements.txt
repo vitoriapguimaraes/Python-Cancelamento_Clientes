@@ -1,0 +1,7 @@
+pandas
+plotly
+Pillow
+fpdf
+black
+flake8
+isort
