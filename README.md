@@ -2,7 +2,7 @@
 
 > Projeto de Data Science para identificar os principais fatores de cancelamento em serviços de assinatura, propor soluções para retenção e gerar visualizações interativas dos dados.
 
-![Demonstração do sistema](https://github.com/vitoriapguimaraes/portifolio-python-dataScience/blob/main/2.%20Cancelamento%20de%20Clientes/results/resuls_show.png)
+![Demonstração do sistema](https://github.com/vitoriapguimaraes/portifolio-python-cancelamento_clientes/blob/main/results/resuls_show.png)
 
 ## Funcionalidades Principais
 
@@ -35,7 +35,7 @@ Esses resultados fundamentam estratégias de retenção personalizadas e melhori
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/vitoriapguimaraes/Python-dataScience-Cancelamento_Clientes.git
+   git clone https://github.com/vitoriapguimaraes/Python-Cancelamento_Clientes.git
    ```
 
 2. Instale as dependências:
@@ -76,7 +76,7 @@ Esses resultados fundamentam estratégias de retenção personalizadas e melhori
 
 - ✅ Concluído
 
-> Veja as [issues abertas](https://github.com/vitoriapguimaraes/Python-dataScience-Cancelamento_Clientes/issues) para sugestões de melhorias e próximos passos.
+> Veja as [issues abertas](https://github.com/vitoriapguimaraes/Python-Cancelamento_Clientes/issues) para sugestões de melhorias e próximos passos.
 
 ## Mais Sobre Mim
 
