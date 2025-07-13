@@ -2,7 +2,7 @@
 
 > Projeto de Data Science para identificar os principais fatores de cancelamento em serviços de assinatura, propor soluções para retenção e gerar visualizações interativas dos dados.
 
-![Demonstração do sistema](https://github.com/vitoriapguimaraes/portifolio-python-cancelamento_clientes/blob/main/results/resuls_show.png)
+![Demonstração do sistema](https://github.com/vitoriapguimaraes/Python-Cancelamento_Clientes/blob/main/results/results_show.png)
 
 ## Funcionalidades Principais
 
